@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Получение данных с API Соответствие снепшоту 1`] = `
+<div
+  class="searchInput"
+>
+  <label
+    class="searchInput__label"
+  >
+    <svg-icon-stub
+      class="searchInput__icon"
+      name="search"
+    />
+     
+    <input
+      class="searchInput__input"
+      placeholder="Search"
+      type="text"
+    />
+  </label>
+   
+  <ul
+    class="searchInput__list"
+  >
+    <li
+      class="searchInput__listItem"
+      tabindex="0"
+    >
+      <img
+        alt=""
+        class="searchInput__listItemPhoto"
+        src="https://via.placeholder.com/150/92c952"
+      />
+       
+      <div
+        class="searchInput__listItemContent"
+      >
+        <div
+          class="searchInput__listItemName"
+        >
+          
+            Leanne Graham
+          
+        </div>
+         
+        <div
+          class="searchInput__listItemUsername"
+        >
+          
+            @Bret
+          
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+`;
